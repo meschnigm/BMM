@@ -1,0 +1,16 @@
+# Created by FHEM/98_SVG.pm, 2024-07-18 00:21:33
+set terminal png transparent size <SIZE> crop
+set output '<OUT>.png'
+set xdata time
+set timefmt "%Y-%m-%d_%H:%M:%S"
+set xlabel " "
+set title '<L1>'
+set ytics 
+set y2tics 
+set grid
+set ylabel "Strom [A]"
+set y2label ""
+
+#SAFT_BMM_Logfile 8:SAFT_BMM.sOC\x3a::
+
+plot "<IN>" using 1:2 axes x1y2 title 'Strom' ls l0fill lw 1 with fsteps

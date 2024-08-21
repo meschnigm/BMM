@@ -1,0 +1,172 @@
+134 MQTT2_FHEM_Server nrclients: .*
+4 MQTT2_MQTT2_FHEM_Server access: none
+8 MQTT2_MQTT2_FHEM_Server averageSpeed_kmph: .*
+4 MQTT2_MQTT2_FHEM_Server brandCode: V
+500 MQTT2_MQTT2_FHEM_Server carCapturedTimestamp:
+60 MQTT2_MQTT2_FHEM_Server carCapturedTimestamp: .*
+8 MQTT2_MQTT2_FHEM_Server carType: electric
+4 MQTT2_MQTT2_FHEM_Server chargeType: unsupported
+4 MQTT2_MQTT2_FHEM_Server charging: none
+2 MQTT2_MQTT2_FHEM_Server chargingState: chargePurposeReachedAndNotConservationCharging
+1 MQTT2_MQTT2_FHEM_Server chargingState: charging
+1 MQTT2_MQTT2_FHEM_Server chargingState: readyForCharging
+4 MQTT2_MQTT2_FHEM_Server climatisation: none
+4 MQTT2_MQTT2_FHEM_Server climatisationState: off
+4 MQTT2_MQTT2_FHEM_Server climatisationWithoutExternalPower: True
+20 MQTT2_MQTT2_FHEM_Server code: -.*
+35 MQTT2_MQTT2_FHEM_Server code: .*
+4 MQTT2_MQTT2_FHEM_Server cruisingRangeElectric_km: .*
+12 MQTT2_MQTT2_FHEM_Server currentSOC_pct: .*
+4 MQTT2_MQTT2_FHEM_Server devicePlatform: MBB
+4 MQTT2_MQTT2_FHEM_Server doorLockStatus: locked
+4 MQTT2_MQTT2_FHEM_Server electricRange: .*
+4 MQTT2_MQTT2_FHEM_Server enrollmentStatus: COMPLETED
+128 MQTT2_MQTT2_FHEM_Server expirationDate: .*
+4 MQTT2_MQTT2_FHEM_Server externalPower: ready
+16 MQTT2_MQTT2_FHEM_Server group: .*
+8 MQTT2_MQTT2_FHEM_Server id: .*
+8 MQTT2_MQTT2_FHEM_Server id: automation
+8 MQTT2_MQTT2_FHEM_Server id: charging
+8 MQTT2_MQTT2_FHEM_Server id: climatisation
+8 MQTT2_MQTT2_FHEM_Server id: departureProfiles
+8 MQTT2_MQTT2_FHEM_Server id: engineType
+8 MQTT2_MQTT2_FHEM_Server id: fuelStatus
+8 MQTT2_MQTT2_FHEM_Server id: measurements
+8 MQTT2_MQTT2_FHEM_Server id: oilLevelStatus
+8 MQTT2_MQTT2_FHEM_Server id: parkingPosition
+8 MQTT2_MQTT2_FHEM_Server id: state
+8 MQTT2_MQTT2_FHEM_Server id: tripStatistics
+8 MQTT2_MQTT2_FHEM_Server id: vehicleHealthInspection
+8 MQTT2_MQTT2_FHEM_Server id: vehicleHealthWakeUp
+8 MQTT2_MQTT2_FHEM_Server id: vehicleLights
+8 MQTT2_MQTT2_FHEM_Server id: vehicleWakeUp
+8 MQTT2_MQTT2_FHEM_Server id: vehicleWakeUpTrigger
+4 MQTT2_MQTT2_FHEM_Server images: {}
+4 MQTT2_MQTT2_FHEM_Server inspectionDue_days: .*
+4 MQTT2_MQTT2_FHEM_Server inspectionDue_km: .*
+4 MQTT2_MQTT2_FHEM_Server latitude: .*
+4 MQTT2_MQTT2_FHEM_Server ledColor: none
+20 MQTT2_MQTT2_FHEM_Server lockState: locked
+4 MQTT2_MQTT2_FHEM_Server lockState: unknown lock state
+4 MQTT2_MQTT2_FHEM_Server longitude: .*
+4 MQTT2_MQTT2_FHEM_Server maxChargeCurrentAC: maximum
+4 MQTT2_MQTT2_FHEM_Server maxChargeCurrentAC_A: .*
+19 MQTT2_MQTT2_FHEM_Server message:
+8 MQTT2_MQTT2_FHEM_Server message: Bad Gateway
+8 MQTT2_MQTT2_FHEM_Server message: Not Found
+12 MQTT2_MQTT2_FHEM_Server mileage_km: .*
+4 MQTT2_MQTT2_FHEM_Server model: Golf GTE
+4 MQTT2_MQTT2_FHEM_Server nickname: Golf GTE Plug in Hybrid .* l TSI Plug-In-Hybrid
+4 MQTT2_MQTT2_FHEM_Server odometer: .*
+4 MQTT2_MQTT2_FHEM_Server oilServiceDue_days: .*
+4 MQTT2_MQTT2_FHEM_Server oilServiceDue_km: .*
+40 MQTT2_MQTT2_FHEM_Server openState: closed
+8 MQTT2_MQTT2_FHEM_Server openState: unsupported
+8 MQTT2_MQTT2_FHEM_Server overallMileage_km: .*
+4 MQTT2_MQTT2_FHEM_Server overallStatus: safe
+4 MQTT2_MQTT2_FHEM_Server plugConnectionState: connected
+4 MQTT2_MQTT2_FHEM_Server plugLockState: locked
+4 MQTT2_MQTT2_FHEM_Server primaryEngineType: electric
+4 MQTT2_MQTT2_FHEM_Server remainingChargingTimeToComplete_min: .*
+4 MQTT2_MQTT2_FHEM_Server remainingRange_km: .*
+16 MQTT2_MQTT2_FHEM_Server retry: True
+4 MQTT2_MQTT2_FHEM_Server role: PRIMARY_USER
+8 MQTT2_MQTT2_FHEM_Server startMileage_km: .*
+8 MQTT2_MQTT2_FHEM_Server status: off
+4 MQTT2_MQTT2_FHEM_Server tags:
+4 MQTT2_MQTT2_FHEM_Server targetTemperature_C: .*
+4 MQTT2_MQTT2_FHEM_Server targetTemperature_F: .*
+400 MQTT2_MQTT2_FHEM_Server timestamp: .*
+8 MQTT2_MQTT2_FHEM_Server totalRange_km: .*
+8 MQTT2_MQTT2_FHEM_Server travelTime: .*
+8 MQTT2_MQTT2_FHEM_Server tripEndTimestamp: .*
+4 MQTT2_MQTT2_FHEM_Server tripType: longTerm
+4 MQTT2_MQTT2_FHEM_Server tripType: shortTerm
+4 MQTT2_MQTT2_FHEM_Server type: electric
+128 MQTT2_MQTT2_FHEM_Server userDisablingAllowed: False
+4 MQTT2_MQTT2_FHEM_Server userRoleStatus: ENABLED
+8 MQTT2_MQTT2_FHEM_Server vehicleType: hybrid
+4 MQTT2_MQTT2_FHEM_Server vin: WVWZZZAUZFW809108
+4 MQTT2_MQTT2_FHEM_Server wakeup: none
+48 MQTT2_MQTT2_FHEM_Server weconnectConnected: False
+19 MQTT2_MQTT2_FHEM_Server weconnectConnected: True
+19 MQTT2_MQTT2_FHEM_Server weconnectUpdateInterval_s: .*
+100 MQTT2_MQTT2_FHEM_Server weconnectUpdated: .*
+8 MQTT2_MQTT2_FHEM_Server windowHeatingState: off
+4 MQTT2_MQTT2_FHEM_Server windowheating: none
+45402 MQTT2_mqttClient 00_SOC: .*
+45402 MQTT2_mqttClient 01_internalBatteryVoltage: .*
+23986 MQTT2_mqttClient 02_internalBatteryCurrent: -.*
+21416 MQTT2_mqttClient 02_internalBatteryCurrent: .*
+45402 MQTT2_mqttClient 03_batterySystemMode: .*
+45402 MQTT2_mqttClient 04_rawBatteryContactorsStatus: .*
+45402 MQTT2_mqttClient 05_IMD: .*
+45402 MQTT2_mqttClient 06_VMD: .*
+45401 MQTT2_mqttClient 07_PMD: .*
+45401 MQTT2_mqttClient 08_batteryRequests: .*
+45401 MQTT2_mqttClient 09_IMRContinuous: .*
+45401 MQTT2_mqttClient 10_IMR: .*
+45401 MQTT2_mqttClient 11_VMR: .*
+45401 MQTT2_mqttClient 12_PMR: .*
+45401 MQTT2_mqttClient 13_globalBatteryStatus: .*
+45401 MQTT2_mqttClient 14_sOCThreshold: .*
+2 MQTT2_mqttClient pi:
+8 MQTT2_mqttClient status: connected
+1 MQTT2_mqttClient status: connection lost
+2 MSwitch_Config Next_Timer: .*
+23600 SAFT_BMM_Readings 00_SOC: .*
+31580 SAFT_BMM_Readings 00_Timestamp: .* SAFT_BMM Created a socket
+23600 SAFT_BMM_Readings 01_internalBatteryVoltage: .*
+11994 SAFT_BMM_Readings 02_internalBatteryCurrent: -.*
+11606 SAFT_BMM_Readings 02_internalBatteryCurrent: .*
+23600 SAFT_BMM_Readings 03_batterySystemMode: .*
+23600 SAFT_BMM_Readings 04_rawBatteryContactorsStatus: .*
+23600 SAFT_BMM_Readings 05_IMD: .*
+23600 SAFT_BMM_Readings 06_VMD: .*
+23600 SAFT_BMM_Readings 07_PMD: .*
+23600 SAFT_BMM_Readings 08_batteryRequests: .*
+23600 SAFT_BMM_Readings 09_IMRContinuous: .*
+23600 SAFT_BMM_Readings 10_IMR: .*
+23600 SAFT_BMM_Readings 11_VMR: .*
+23600 SAFT_BMM_Readings 12_PMR: .*
+23600 SAFT_BMM_Readings 13_globalBatteryStatus: .*
+23600 SAFT_BMM_Readings 14_sOCThreshold: .*
+1 allowedMQTT basicAuth pi pi
+1 allowed_WEB basicAuth pi pi
+5 mqttClient CONNECTED
+2 mqttClient DISCONNECTED
+2 mqttClient state: disconnected
+8 mqttGeneric device-count: .*
+354000 mqttGeneric outgoing-count: .*
+4 mqttGeneric transmission-state: IO device initialized (mqtt2)
+354000 mqttGeneric transmission-state: outgoing publish sent
+1 mswitch EVENTCONF: global:ATTRwatch_SAFT_BMM_Logfile_updatemaskIN_CLOSE_NOWRITE
+2 mswitch EVENTCONF: global:DELAYEDSHUTDOWN
+5 mswitch EVENTCONF: global:FILEWRITE./FHEM/99_myUtils.pm
+2 mswitch EVENTCONF: global:INITIALIZED
+1 mswitch EVENTCONF: global:MODIFIEDwatch_SAFT_BMM_Logfile_update_notify_1
+3 mswitch EVENTCONF: global:SAVE
+2 mswitch EVENTCONF: global:SHUTDOWN
+3513 watch_SAFT_BMM_Logfile_update IN_ACCESS: /opt/fhem/log//SAFT_BMM.*.log
+2987 watch_SAFT_BMM_Logfile_update IN_ACCESS: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+1 watch_SAFT_BMM_Logfile_update IN_ATTRIB: /opt/fhem/log//SAFT_BMM.*.log
+31871 watch_SAFT_BMM_Logfile_update IN_CLOSE_NOWRITE: /opt/fhem/log//SAFT_BMM.*.log
+86 watch_SAFT_BMM_Logfile_update IN_CLOSE_NOWRITE: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+48 watch_SAFT_BMM_Logfile_update IN_CLOSE_WRITE: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+49 watch_SAFT_BMM_Logfile_update IN_CREATE: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+49 watch_SAFT_BMM_Logfile_update IN_DELETE: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+21830 watch_SAFT_BMM_Logfile_update IN_MODIFY: /opt/fhem/log//SAFT_BMM.*.log
+3788 watch_SAFT_BMM_Logfile_update IN_MODIFY: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+1438 watch_SAFT_BMM_Logfile_update IN_OPEN: /opt/fhem/log//SAFT_BMM.*.log
+109 watch_SAFT_BMM_Logfile_update IN_OPEN: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+58665 watch_SAFT_BMM_Logfile_update lastEventFile: /opt/fhem/log//SAFT_BMM.*.log
+7118 watch_SAFT_BMM_Logfile_update lastEventFile: /opt/fhem/log//SAFT_BMM.*.log.transit.temp.log
+6500 watch_SAFT_BMM_Logfile_update lastEventMask: IN_ACCESS
+1 watch_SAFT_BMM_Logfile_update lastEventMask: IN_ATTRIB
+31962 watch_SAFT_BMM_Logfile_update lastEventMask: IN_CLOSE_NOWRITE
+48 watch_SAFT_BMM_Logfile_update lastEventMask: IN_CLOSE_WRITE
+49 watch_SAFT_BMM_Logfile_update lastEventMask: IN_CREATE
+49 watch_SAFT_BMM_Logfile_update lastEventMask: IN_DELETE
+25622 watch_SAFT_BMM_Logfile_update lastEventMask: IN_MODIFY
+1552 watch_SAFT_BMM_Logfile_update lastEventMask: IN_OPEN
+2 watch_SAFT_BMM_Logfile_update_notify_1 state: active

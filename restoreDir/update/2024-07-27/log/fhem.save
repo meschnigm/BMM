@@ -1,0 +1,20 @@
+#Fri Jul 19 12:32:47 2024
+setstate Logfile active
+setstate Logfile 2024-02-20 18:49:05 linesInTheFile 0
+setstate SAFT_BMM_Logfile active
+setstate SVG_SAFT_BMM_Logfile_1 initialized
+setstate SVG_SAFT_BMM_Logfile_2 initialized
+setstate SVG_SAFT_BMM_Logfile_3 initialized
+setstate SVG_SAFT_BMM_Logfile_4 initialized
+setstate SVG_SAFT_BMM_Logfile_5 initialized
+setstate SVG_SAFT_BMM_Logfile_6 initialized
+setstate WEB 2024-07-18 00:18:38 state Initialized
+setstate allowed_WEB validFor:WEB
+setstate allowed_WEB 2024-07-18 00:18:38 state validFor:WEB
+setstate autocreate active
+setstate eventTypes active
+setstate global no definition
+setstate initialUsbCheck 2024-07-17 20:57:52
+setstate initialUsbCheck 2024-07-18 00:18:38 state active
+setstate initialUsbCheck 2024-07-17 20:57:52 triggeredByDev global
+setstate initialUsbCheck 2024-07-17 20:57:52 triggeredByEvent INITIALIZED

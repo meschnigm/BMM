@@ -1,0 +1,20 @@
+# Created by FHEM/98_SVG.pm, 2024-07-18 02:38:47
+set terminal png transparent size <SIZE> crop
+set output '<OUT>.png'
+set xdata time
+set timefmt "%Y-%m-%d_%H:%M:%S"
+set xlabel " "
+set title '<L1>'
+set ytics 
+set y2tics 
+set grid
+set ylabel ""
+set y2label ""
+set yrange [10:50]
+set y2range [470:600]
+
+#SAFT_BMM_Logfile 24:SAFT_BMM.sOC\x3a::
+#SAFT_BMM_Logfile 26:SAFT_BMM.sOC\x3a::
+
+plot "<IN>" using 1:2 axes x1y1 title 'IMR' ls l0 lw 1 with fsteps,\
+     "<IN>" using 1:2 axes x1y2 title 'VMR' ls l1 lw 1 with fsteps

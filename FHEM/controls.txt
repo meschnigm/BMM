@@ -1,0 +1,2 @@
+https://fhem.de/fhemupdate/controls_fhem.txt
+https://raw.githubusercontent.com/Byte009/FHEM-MSwitch/master/controls_mswitch.txt

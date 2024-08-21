@@ -1,0 +1,24 @@
+Node ID 1:
+
+Schließen : 
+cansend can0 601#2255200001
+
+Öffnen    : 
+cansend can0 601#2255200000
+
+
+
+
+sudo ifconfig can0 down
+sudo ip link set can0 type can bitrate 250000
+sudo ifconfig can0 up
+
+
+
+Node ID 2:
+
+Schließen : 
+cansend can0 602#2255200001
+
+Öffnen    : 
+cansend can0 602#2255200000

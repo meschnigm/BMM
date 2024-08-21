@@ -1,0 +1,79 @@
+#Fri Aug  2 00:35:27 2024
+setstate FileLog_MQTT2_mqttClient disabled
+setstate FileLog_MQTT2_mqttClient 2024-08-02 00:34:40 linesInTheFile 525948
+setstate Logfile active
+setstate Logfile 2024-02-20 18:49:05 linesInTheFile 0
+setstate MQTT2_FHEM_Server 2024-08-02 00:33:39 nrclients 1
+setstate MQTT2_FHEM_Server 2024-08-02 00:22:00 state Initialized
+setstate MQTT2_mqttClient connect
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 00_SOC 66
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 01_internalBatteryVoltage 520.95
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 02_internalBatteryCurrent -0.75
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 03_batterySystemMode 3
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 04_rawBatteryContactorsStatus 1
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 05_IMD 50.0
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 06_VMD 420.0
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 07_PMD 25480
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 08_batteryRequests 0
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 09_IMRContinuous 23.0
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 10_IMR 29.75
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 11_VMR 560.0
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 12_PMR 15660
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 13_globalBatteryStatus 0
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 14_sOCThreshold 81
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 IN_MODIFY /opt/fhem/log//SAFT_BMM-2024-08.log
+setstate MQTT2_mqttClient 2024-08-02 00:22:00 IODev MQTT2_FHEM_Server
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 lastEventFile /opt/fhem/log//SAFT_BMM-2024-08.log
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 lastEventMask IN_MODIFY
+setstate MQTT2_mqttClient 2024-08-02 00:24:05 state connect
+setstate MQTT2_mqttClient 2024-08-02 00:23:01 subscriptions #
+setstate SAFT_BMM_Logfile active
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 00_SOC 66
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 01_internalBatteryVoltage 520.875
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 02_internalBatteryCurrent -0.75
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 03_batterySystemMode 3
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 04_rawBatteryContactorsStatus 1
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 05_IMD 50.0
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 06_VMD 420.0
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 07_PMD 25480
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 08_batteryRequests 0
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 09_IMRContinuous 23.0
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 10_IMR 29.75
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 11_VMR 560.0
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 12_PMR 15660
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 13_globalBatteryStatus 0
+setstate SAFT_BMM_Readings 2024-08-02 00:35:05 14_sOCThreshold 81
+setstate SVG_SAFT_BMM_Logfile_1 initialized
+setstate SVG_SAFT_BMM_Logfile_2 initialized
+setstate SVG_SAFT_BMM_Logfile_3 initialized
+setstate SVG_SAFT_BMM_Logfile_4 initialized
+setstate SVG_SAFT_BMM_Logfile_5 initialized
+setstate SVG_SAFT_BMM_Logfile_6 initialized
+setstate WEB 2024-08-02 00:22:00 state Initialized
+setstate allowed_WEB validFor:WEB
+setstate allowed_WEB 2024-08-02 00:22:00 state validFor:WEB
+setstate autocreate active
+setstate eventTypes active
+setstate global no definition
+setstate initialUsbCheck 2024-08-01 21:23:26
+setstate initialUsbCheck 2024-08-02 00:22:00 state active
+setstate initialUsbCheck 2024-08-01 21:23:26 triggeredByDev global
+setstate initialUsbCheck 2024-08-01 21:23:26 triggeredByEvent INITIALIZED
+setstate mqttClient opened
+setstate mqttClient 2024-08-02 00:33:39 state opened
+setstate mqttGeneric 2024-08-02 00:22:00 IODev mqttClient
+setstate mqttGeneric 2024-08-02 00:22:00 device-count 1
+setstate mqttGeneric 2024-08-02 00:22:00 incoming-count 0
+setstate mqttGeneric 2024-08-02 00:34:27 outgoing-count 123625
+setstate mqttGeneric 2024-08-02 00:34:27 transmission-state outgoing publish sent
+setstate mqttGeneric 2024-08-02 00:22:00 updated-reading-count 0
+setstate mqttGeneric 2024-08-02 00:22:00 updated-set-count 0
+setstate watch_SAFT_BMM_Logfile_update active
+setstate watch_SAFT_BMM_Logfile_update 2024-08-02 00:35:05 lastEventFile /opt/fhem/log//SAFT_BMM-2024-08.log
+setstate watch_SAFT_BMM_Logfile_update 2024-08-02 00:35:05 lastEventMask IN_MODIFY
+setstate watch_SAFT_BMM_Logfile_update 2024-08-02 00:22:01 state active
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-02 00:35:05
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-02 00:22:00 state active
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-02 00:35:05 triggeredByDev watch_SAFT_BMM_Logfile_update
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-02 00:35:05 triggeredByEvent lastEventMask: IN_MODIFY

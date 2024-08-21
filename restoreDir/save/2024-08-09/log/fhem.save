@@ -1,0 +1,397 @@
+#Mon Aug  5 21:53:03 2024
+setstate FileLog_MQTT2_MQTT2_FHEM_Server active
+setstate FileLog_MQTT2_MQTT2_FHEM_Server 2024-08-05 19:55:39 linesInTheFile 1447
+setstate FileLog_MQTT2_mqttClient active
+setstate FileLog_MQTT2_mqttClient 2024-08-05 16:59:30 linesInTheFile 686415
+setstate Logfile active
+setstate Logfile 2024-02-20 18:49:05 linesInTheFile 0
+setstate MQTT2_FHEM_Server 2024-08-05 21:41:37 nrclients 2
+setstate MQTT2_FHEM_Server 2024-08-04 23:44:48 state Initialized
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-04 23:44:49 IODev MQTT2_FHEM_Server
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 access none
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 averageSpeed_kmph 38
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 brandCode V
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 19:51:36 carCapturedTimestamp 
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 carType electric
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 chargeType unsupported
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 charging none
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 chargingState chargePurposeReachedAndNotConservationCharging
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 climatisation none
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 climatisationState off
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 climatisationWithoutExternalPower True
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 18:30:13 code 0
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 cruisingRangeElectric_km 37
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 currentSOC_pct 100
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 devicePlatform MBB
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 doorLockStatus locked
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 electricRange 37
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 enrollmentStatus COMPLETED
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 expirationDate 2025-03-03 14:21:00+00:00
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 externalPower ready
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 group 3
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 id 2725009522
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:36 images {}
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 info Something went wrong. Please try to re-login. If the problem persists, please contact our support.
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 inspectionDue_days 91
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 inspectionDue_km 18100
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:38 latitude 49.356388
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 ledColor none
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 lockState locked
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:38 longitude 11.095076
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 maxChargeCurrentAC maximum
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 maxChargeCurrentAC_A 16
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 18:30:13 message 
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 mileage_km 3214
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 model Golf GTE
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 nickname Golf GTE Plug in Hybrid 1,4 l TSI Plug-In-Hybrid
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 odometer 92614
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 oilServiceDue_days 17
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 oilServiceDue_km 1700
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 openState unsupported
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 overallMileage_km 92614
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 overallStatus safe
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 plugConnectionState connected
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 plugLockState locked
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 primaryEngineType electric
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 remainingChargingTimeToComplete_min 5
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 remainingRange_km 37
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 retry True
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 role PRIMARY_USER
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 startMileage_km 89400
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 status off
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:36 tags 
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 targetTemperature_C 21.0
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 targetTemperature_F 70.0
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 19:51:36 timestamp 2024-08-05 17:51:35+00:00
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:53:49 topics weconnect/mqtt/error/code,\
+weconnect/mqtt/error/message,\
+weconnect/mqtt/topics,\
+weconnect/mqtt/weconnectConnected,\
+weconnect/mqtt/weconnectUpdated,\
+weconnect/mqtt/writeableTopics,\
+weconnect/vehicles/WVWZZZAUZFW809108/brandCode,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/automation/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/automation/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/automation/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/charging/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/charging/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/charging/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/climatisation/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/climatisation/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/climatisation/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/departureProfiles/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/departureProfiles/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/departureProfiles/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/engineType/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/engineType/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/engineType/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/fuelStatus/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/fuelStatus/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/fuelStatus/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/measurements/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/measurements/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/measurements/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/oilLevelStatus/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/oilLevelStatus/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/oilLevelStatus/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/parkingPosition/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/parkingPosition/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/parkingPosition/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/state/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/state/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/state/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/tripStatistics/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/tripStatistics/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/tripStatistics/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleHealthInspection/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleHealthInspection/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleHealthInspection/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleHealthWakeUp/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleHealthWakeUp/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleHealthWakeUp/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleLights/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleLights/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleLights/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleWakeUp/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleWakeUp/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleWakeUp/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleWakeUpTrigger/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleWakeUpTrigger/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/capabilities/vehicleWakeUpTrigger/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/devicePlatform,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doorLockStatus,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/bonnet/lockState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/bonnet/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/frontLeft/lockState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/frontLeft/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/frontRight/lockState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/frontRight/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/rearLeft/lockState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/rearLeft/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/rearRight/lockState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/rearRight/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/trunk/lockState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/doors/trunk/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/overallStatus,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/windows/frontLeft/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/windows/frontRight/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/windows/rearLeft/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/windows/rearRight/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/windows/roofCover/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/access/accessStatus/windows/sunRoof/openState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/chargingProfiles/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/chargingProfiles/error/code,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/chargingProfiles/error/group,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/chargingProfiles/error/info,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/chargingProfiles/error/message,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/chargingProfiles/error/retry,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/chargingProfiles/error/timestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/climatisationTimer/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/climatisationTimer/error/code,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/climatisationTimer/error/group,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/climatisationTimer/error/info,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/climatisationTimer/error/message,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/climatisationTimer/error/retry,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/automation/climatisationTimer/error/timestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/batteryStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/batteryStatus/cruisingRangeElectric_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/batteryStatus/currentSOC_pct,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargeMode/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargeMode/error/code,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargeMode/error/group,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargeMode/error/info,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargeMode/error/message,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargeMode/error/retry,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargeMode/error/timestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargingSettings/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargingStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargingStatus/chargeType,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargingStatus/chargingState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargingStatus/remainingChargingTimeToComplete_min,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/plugStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/plugStatus/externalPower,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/plugStatus/ledColor,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/plugStatus/plugConnectionState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/plugStatus/plugLockState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/climatisationSettings/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/climatisationStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/climatisationStatus/climatisationState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/windowHeatingStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/windowHeatingStatus/windows/front/windowHeatingState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/windowHeatingStatus/windows/rear/windowHeatingState,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/fuelStatus/rangeStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/fuelStatus/rangeStatus/carType,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/fuelStatus/rangeStatus/primaryEngine/currentSOC_pct,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/fuelStatus/rangeStatus/primaryEngine/remainingRange_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/fuelStatus/rangeStatus/primaryEngine/type,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/fuelStatus/rangeStatus/totalRange_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/fuelLevelStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/fuelLevelStatus/carType,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/fuelLevelStatus/currentSOC_pct,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/fuelLevelStatus/primaryEngineType,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/odometerStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/odometerStatus/odometer,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/rangeStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/rangeStatus/electricRange,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/measurements/rangeStatus/totalRange_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/oilLevel/oilLevelStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/oilLevel/oilLevelStatus/error/code,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/oilLevel/oilLevelStatus/error/group,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/oilLevel/oilLevelStatus/error/info,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/oilLevel/oilLevelStatus/error/message,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/oilLevel/oilLevelStatus/error/retry,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/oilLevel/oilLevelStatus/error/timestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/automation/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/automation/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/automation/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/charging/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/charging/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/charging/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/climatisation/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/climatisation/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/climatisation/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/departureProfiles/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/departureProfiles/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/departureProfiles/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/engineType/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/engineType/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/engineType/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/fuelStatus/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/fuelStatus/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/fuelStatus/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/measurements/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/measurements/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/measurements/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/oilLevelStatus/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/oilLevelStatus/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/oilLevelStatus/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/parkingPosition/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/parkingPosition/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/parkingPosition/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/state/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/state/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/state/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/tripStatistics/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/tripStatistics/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/tripStatistics/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleHealthInspection/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleHealthInspection/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleHealthInspection/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleHealthWakeUp/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleHealthWakeUp/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleHealthWakeUp/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleLights/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleLights/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleLights/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleWakeUp/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleWakeUp/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleWakeUp/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleWakeUpTrigger/expirationDate,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleWakeUpTrigger/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/capabilities/vehicleWakeUpTrigger/userDisablingAllowed,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/userCapabilities/capabilitiesStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleHealthInspection/maintenanceStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleHealthInspection/maintenanceStatus/inspectionDue_days,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleHealthInspection/maintenanceStatus/inspectionDue_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleHealthInspection/maintenanceStatus/mileage_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleHealthInspection/maintenanceStatus/oilServiceDue_days,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleHealthInspection/maintenanceStatus/oilServiceDue_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleLights/lightsStatus/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleLights/lightsStatus/lights/left/status,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/vehicleLights/lightsStatus/lights/right/status,\
+weconnect/vehicles/WVWZZZAUZFW809108/enrollmentStatus,\
+weconnect/vehicles/WVWZZZAUZFW809108/images,\
+weconnect/vehicles/WVWZZZAUZFW809108/model,\
+weconnect/vehicles/WVWZZZAUZFW809108/nickname,\
+weconnect/vehicles/WVWZZZAUZFW809108/parking/parkingPosition/carCapturedTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/parking/parkingPosition/latitude,\
+weconnect/vehicles/WVWZZZAUZFW809108/parking/parkingPosition/longitude,\
+weconnect/vehicles/WVWZZZAUZFW809108/role,\
+weconnect/vehicles/WVWZZZAUZFW809108/tags,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/averageSpeed_kmph,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/mileage_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/overallMileage_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/startMileage_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/travelTime,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/tripEndTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/tripType,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/longTerm/vehicleType,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/averageSpeed_kmph,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/id,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/mileage_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/overallMileage_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/startMileage_km,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/travelTime,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/tripEndTimestamp,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/tripType,\
+weconnect/vehicles/WVWZZZAUZFW809108/trips/shortTerm/vehicleType,\
+weconnect/vehicles/WVWZZZAUZFW809108/userRoleStatus,\
+weconnect/vehicles/WVWZZZAUZFW809108/vin
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 totalRange_km 37
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 travelTime 5057
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 tripEndTimestamp 2024-08-04 19:53:35+00:00
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 tripType longTerm
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 type electric
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 userDisablingAllowed False
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 userRoleStatus ENABLED
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 vehicleType hybrid
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:35 vin WVWZZZAUZFW809108
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 wakeup none
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 19:55:39 weconnectConnected False
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:43:32 weconnectUpdateInterval_s 300
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 19:51:37 weconnectUpdated 2024-08-05T17:51:37+00:00
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:37 windowHeatingState off
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 windowheating none
+setstate MQTT2_MQTT2_FHEM_Server 2024-08-05 17:48:39 writeableTopics weconnect/mqtt/weconnectForceUpdate_writetopic,\
+weconnect/mqtt/weconnectUpdateInterval_s_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/controls/access_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/controls/charging_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/controls/climatisation_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/controls/wakeup_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/controls/windowheating_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargingSettings/maxChargeCurrentAC_A_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/charging/chargingSettings/maxChargeCurrentAC_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/climatisationSettings/climatisationWithoutExternalPower_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/climatisationSettings/targetTemperature_C_writetopic,\
+weconnect/vehicles/WVWZZZAUZFW809108/domains/climatisation/climatisationSettings/targetTemperature_F_writetopic
+setstate MQTT2_mqttClient connect
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 00_SOC 94
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 01_internalBatteryVoltage 549.6
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 02_internalBatteryCurrent 0.0
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 03_batterySystemMode 3
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 04_rawBatteryContactorsStatus 1
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 05_IMD 50.0
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 06_VMD 420.0
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 07_PMD 26810
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 08_batteryRequests 0
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 09_IMRContinuous 13.5
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 10_IMR 13.5
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 11_VMR 560.0
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 12_PMR 6120
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 13_globalBatteryStatus 0
+setstate MQTT2_mqttClient 2024-08-05 16:59:30 14_sOCThreshold 85
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 IN_MODIFY /opt/fhem/log//SAFT_BMM-2024-08.log
+setstate MQTT2_mqttClient 2024-08-04 23:44:48 IODev MQTT2_FHEM_Server
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 lastEventFile /opt/fhem/log//SAFT_BMM-2024-08.log
+setstate MQTT2_mqttClient 2024-08-02 00:34:40 lastEventMask IN_MODIFY
+setstate MQTT2_mqttClient 2024-08-04 11:00:15 pi 
+setstate MQTT2_mqttClient 2024-08-02 00:24:05 state connect
+setstate MQTT2_mqttClient 2024-08-04 23:44:48 status connected
+setstate MQTT2_mqttClient 2024-08-04 23:44:49 subscriptions #
+setstate MQTT2_mqttClient 2024-08-04 22:13:04 weconnectUpdateInterval_s_writetopic 180
+setstate SAFT_BMM_Logfile active
+setstate SAFT_BMM_Readings SOC:       94 %   <br> \
+Vbat:      550 V <br>\
+Strom:     0.00 A
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 00_SOC 94
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 01_internalBatteryVoltage 549.6
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 02_internalBatteryCurrent 0.0
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 03_batterySystemMode 3
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 04_rawBatteryContactorsStatus 1
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 05_IMD 50.0
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 06_VMD 420.0
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 07_PMD 26810
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 08_batteryRequests 0
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 09_IMRContinuous 13.5
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 10_IMR 13.5
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 11_VMR 560.0
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 12_PMR 6120
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 13_globalBatteryStatus 0
+setstate SAFT_BMM_Readings 2024-08-05 16:59:30 14_sOCThreshold 85
+setstate SVG_SAFT_BMM_Logfile_1 initialized
+setstate SVG_SAFT_BMM_Logfile_2 initialized
+setstate SVG_SAFT_BMM_Logfile_3 initialized
+setstate SVG_SAFT_BMM_Logfile_4 initialized
+setstate SVG_SAFT_BMM_Logfile_5 initialized
+setstate SVG_SAFT_BMM_Logfile_6 initialized
+setstate WEB 2024-08-04 23:44:48 state Initialized
+setstate allowedMQTT validFor:MQTT2_FHEM_Server
+setstate allowedMQTT 2024-08-04 23:44:48 state validFor:MQTT2_FHEM_Server
+setstate allowed_WEB validFor:WEB
+setstate allowed_WEB 2024-08-04 23:44:48 state validFor:WEB
+setstate autocreate active
+setstate eventTypes active
+setstate global no definition
+setstate initialUsbCheck 2024-08-04 10:43:11
+setstate initialUsbCheck 2024-08-04 23:44:48 state active
+setstate initialUsbCheck 2024-08-04 10:43:11 triggeredByDev global
+setstate initialUsbCheck 2024-08-04 10:43:11 triggeredByEvent INITIALIZED
+setstate mqttClient disconnected
+setstate mqttClient 2024-08-05 21:53:03 state disconnected
+setstate mqttGeneric 2024-08-04 23:44:48 IODev mqttClient
+setstate mqttGeneric 2024-08-04 23:44:48 device-count 1
+setstate mqttGeneric 2024-08-04 23:44:48 incoming-count 0
+setstate mqttGeneric 2024-08-05 16:59:30 outgoing-count 15525
+setstate mqttGeneric 2024-08-05 16:59:30 transmission-state outgoing publish sent
+setstate mqttGeneric 2024-08-04 23:44:48 updated-reading-count 0
+setstate mqttGeneric 2024-08-04 23:44:48 updated-set-count 0
+setstate watch_SAFT_BMM_Logfile_update active
+setstate watch_SAFT_BMM_Logfile_update 2024-08-05 16:59:30 lastEventFile /opt/fhem/log//SAFT_BMM-2024-08.log
+setstate watch_SAFT_BMM_Logfile_update 2024-08-05 16:59:30 lastEventMask IN_MODIFY
+setstate watch_SAFT_BMM_Logfile_update 2024-08-04 23:44:49 state active
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-05 16:59:30
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-04 23:44:48 state active
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-05 16:59:30 triggeredByDev watch_SAFT_BMM_Logfile_update
+setstate watch_SAFT_BMM_Logfile_update_notify_1 2024-08-05 16:59:30 triggeredByEvent lastEventMask: IN_MODIFY

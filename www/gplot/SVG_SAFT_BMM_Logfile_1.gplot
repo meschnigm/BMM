@@ -1,0 +1,18 @@
+# Created by FHEM/98_SVG.pm, 2024-07-17 20:13:42
+set terminal png transparent size <SIZE> crop
+set output '<OUT>.png'
+set xdata time
+set timefmt "%Y-%m-%d_%H:%M:%S"
+set xlabel " "
+set title '<L1>'
+set ytics 
+set y2tics 
+set grid
+set ylabel "V-BAT[V]"
+set y2label "SOC [%]"
+
+#SAFT_BMM_Logfile 4:SAFT_BMM.sOC\x3a::
+#SAFT_BMM_Logfile 6:SAFT_BMM.sOC\x3a::
+
+plot "<IN>" using 1:2 axes x1y2 title 'SOC' ls l5 lw 2 with fsteps,\
+     "<IN>" using 1:2 axes x1y1 title 'V-BAT' ls l1fill lw 1 with fsteps

@@ -1,0 +1,8 @@
+.bash_history
+SaftBMSGoodwe2.log
+log/
+restoreDir/update/*
+backup/*
+fhem.save
+restoreDir/
+docs/commandref.html
