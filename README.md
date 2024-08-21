@@ -70,24 +70,28 @@ Modbus-Anbindung (optional)
 - LAN-Apapter für GoodWe Wechselrichter. GA10081-37-00P
 
 ## FHEM Files:
+folgende Files können auch in einen bestehende FHEM-Installation übernommen werden wenn nicht das gesamte Repository übernommen werden soll.
 
-- **00_SAFT_BMM.cfg** <br>
+- **/opt/fhem/fhem.cfg** <br>
+        Hier werden alle übrigen .cfg Files über einen include eingebunden.
+
+- **/opt/fhem/FHEM/00_SAFT_BMM.cfg** <br>
         Reagiert auf Änderungen am Logfile SAFT_BMM-yyyy-mm.log im Verzeichnis /opt/fhem/log
 
-- **99_myUtils.pm** <br>
+- **/opt/fhem/FHEM/99_myUtils.pm** <br>
         Unterfunktion zur Erzeugung der Readings aus dem Logfile
 
-- **00_MQTT_Interface.cfg** <br>
+- **/opt/fhem/FHEM/00_MQTT_Interface.cfg** <br>
         Verbindet sich in dieser Konfiguration mit dem MQTT-Server (localhost)
         Gibt es bereits einen MQTT Server in dieser Zeile die IP Nummer eintragen. <br>
         ``` define mqttClient MQTT2_CLIENT 127.0.0.1:1883 ```<br>
         Weiterhin diese Zeile im fhem.cfg auskommentieren<br>
         ``` include ./FHEM/00_MQTT_Server.cfg ```<br>
 
-- **00_MQTT_Server.cfg** <br>
+- **/opt/fhem/FHEM/00_MQTT_Server.cfg** <br>
         MQTT Server falls noch kein eigener Server vorhanden.
 
-- **00_Goodwe.cfg** <br>
+- **/opt/fhem/FHEM/00_Goodwe.cfg** <br>
         Optionale Einbindung des Goodwe Wechselrichters in FHEM. <br>
         Genutzt wird die MODBUS Schnittstelle des Wechselrichters. **Zur Verwendung ist der GoodWe-LAN Adapter erforderlich.**<br>
         Folgende Zeile die IP-Nummer des Wechselrichters eintragen.<br>
