@@ -118,7 +118,7 @@ folgende Files können auch in einen bestehende FHEM-Installation übernommen we
         ```cat ~/.ssh/id_ed25519.pub```<br> 
         Kopiere den gesamten Inhalt.<br> 
         Gehe zu GitHub, navigiere zu Settings > SSH and GPG keys und füge einen neuen SSH-Schlüssel hinzu.<br> 
-- Verbindung zu GitHub testen:
+- Verbindung zu GitHub testen:<br> 
         ```ssh -T git@github.com```
 - Git installieren:<br> 
         ```git --version``` # schon installiert?<br>
