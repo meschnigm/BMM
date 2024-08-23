@@ -16,7 +16,7 @@ Crontab aufrufen:<br>
 ```sudo nano /etc/crontab```
 
 Zeile einfügen<br>
-```*/5 * * * * fhem /opt/fhem/SaftBMSGoodwe2_Monitor.pl```
+```*/5 * * * * pi /opt/fhem/SaftBMSGoodwe2_Monitor.pl```
 
 Speichern mit Str-O
 Verlassen mit Str-X
@@ -126,9 +126,11 @@ folgende Files können auch in einen bestehende FHEM-Installation übernommen we
         ```sudo apt upgrade```<br>
         ```sudo apt install git``` <br> 
 - Repository klonen:<br> 
+        ```cd /opt/fhem/```<br>
         ```git clone git@github.com:meschnigm/BMM.git```<br> <br> 
 
 ## Benutzerrechte für FHEM anpassen: <br>
+
 ```sudo chmod 755 -R /opt/fhem```<br> 
 ```sudo chown -R fhem:dialout /opt/fhem/```<br> 
 
