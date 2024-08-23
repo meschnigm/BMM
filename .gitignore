@@ -6,3 +6,5 @@ backup/*
 fhem.save
 restoreDir/
 docs/commandref.html
+log/eventTypes.txt
+log/fhem.save
