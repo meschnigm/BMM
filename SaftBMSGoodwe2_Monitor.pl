@@ -4,14 +4,15 @@
 #
 # Das CAN-Kommunikationsscipt SaftBMSGoodwe2.py scheint von Zeit zu Zeit abzustürzen. 
 # Dieses Script überwacht ob eine Instanz des Scriptes läuft und startet bei Bedarf neu.
+# Manueller Aufruf: 
+# sudo perl /opt/fhem/SaftBMSGoodwe2_Monitor.pl 2> error.log
 # 
 # Dises Script wird nach Neustart des Rechners ausgeführt.
 # Aufruf über crontab - alle 5 Minuten prüfen
 # sudo nano /etc/crontab  
-# */5 * * * * pi2 /home/pi2/SaftBMSGoodwe2_Monitor.pl
-#
+# */5 * * * * root perl /opt/fhem/SaftBMSGoodwe2_Monitor.pl
 # Skript ausführbar:
-# chmod +x /home/pi2/SaftBMSGoodwe2_Monitor.pl
+# sudo chmod +x /opt/fhem/SaftBMSGoodwe2_Monitor.pl
 #
 ##########################################################################################################################################################
 
@@ -23,7 +24,7 @@ use POSIX qw(strftime);
 # Pfad zum Python-Skript
 my $python_script = 'SaftBMSGoodwe2.py';
 # Pfad zur Logdatei
-my $log_file = 'SaftBMSGoodwe2.log';
+my $log_file = 'SaftBMSGoodwe2_Monitor.log';
 # Maximale Anzahl der Zeilen in der Logdatei
 my $max_lines = 15;
 

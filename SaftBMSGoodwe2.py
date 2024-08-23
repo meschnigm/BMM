@@ -27,8 +27,9 @@ logging.basicConfig(
   filename=logging_filename,
   level=logging.INFO,
   format='%(asctime)s SAFT_BMM %(message)s',
-  datefmt='%Y-%m-%d_%H:%M:%S'  
+  datefmt='%Y-%m-%d_%H:%M:%S'
 )
+os.chmod(logging_filename, 0o666)
 
 # Ermitteln der UID und GID des Benutzers 'fhem'
 fhem_user = pwd.getpwnam('fhem')
@@ -36,8 +37,8 @@ fhem_uid = fhem_user.pw_uid
 fhem_gid = grp.getgrnam('dialout').gr_gid
 
 # Ändere die Besitzrechte der Log-Datei
-#os.chmod(logging_filename, 0o666)
-#os.chown(logging_filename, fhem_uid, fhem_gid)
+
+os.chown(logging_filename, fhem_uid, fhem_gid)
 
 #########################################################################
 
