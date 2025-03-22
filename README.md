@@ -27,7 +27,7 @@ Die Funktion sowie die PID des Überwachungsskript lässt sich am File SaftBMSGo
 2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py wurde gestartet mit PID 27395: <br> 
 2024-08-18 14:55:02 - Das Skript SaftBMSGoodwe2.py läuft bereits mit der PID 27395. <br> 
 
-# Hauptfunktionen - SaftBMSGoodwe2_Monitor.pl
+# Hauptfunktionen - SaftBMSGoodwe2.py
 
    **CAN-Bus Konfiguration:**<br>
    Das Skript konfiguriert zwei CAN-Bus-Interfaces (can0 und can1) mit einem Bitrate von 250 kbps.
