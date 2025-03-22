@@ -29,13 +29,13 @@ Die Funktion sowie die PID des Überwachungsskript lässt sich am File SaftBMSGo
 
 # Hauptfunktionen
 
-    **CAN-Bus Konfiguration:**
+    ** CAN-Bus Konfiguration: **
 
         Das Skript konfiguriert zwei CAN-Bus-Interfaces (can0 und can1) mit einem Bitrate von 250 kbps.
 
         Es verwendet die Bibliothek python-can zur Kommunikation über den CAN-Bus.
 
-    **Logging:**
+    ** Logging: **
 
         Es konfiguriert ein Logging-System, das Daten in eine Datei schreibt, die dynamisch basierend auf dem aktuellen Datum generiert wird.
 
