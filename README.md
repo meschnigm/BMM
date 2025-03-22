@@ -47,9 +47,9 @@ Verlassen mit Str-X
 
 Die Funktion sowie die PID des Überwachungsskript lässt sich am File **SaftBMSGoodwe2.log** erkennen.
 
-```2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py läuft nicht. Starte neu...```
-```2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py wurde gestartet mit PID 27395:```
-```2024-08-18 14:55:02 - Das Skript SaftBMSGoodwe2.py läuft bereits mit der PID 27395.```
+```2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py läuft nicht. Starte neu...```<br>
+```2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py wurde gestartet mit PID 27395:```<br>
+```2024-08-18 14:55:02 - Das Skript SaftBMSGoodwe2.py läuft bereits mit der PID 27395.```<br>
 
 
 # Kurzanleitung FHEM_BMM 
