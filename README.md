@@ -6,27 +6,6 @@ Mit der Erweiterung erzeugt das Script ein Logfile im Ordner /opt/fhem/Saft_BMM-
 
 Auf Änderungen in diesem File reagiert FHEM und aktualisiert seine internen Readings und Plots.
 
-# Monitor Script for SaftBMSGoodwe2.py - SaftBMSGoodwe2_Monitor.pl
-
-Das Perl Skrit SaftBMSGoodwe2_Monitor.pl übwerwacht ob das Python Skript läuft und startet ggf. neu. Dies soll die Stabilität erhöhen falls es zu Abbrüchen kommt. 
-
-Das Script wird automtisch bei Systemstart ausgeführt hierzu folgende Anpassungen vornehmen.
-
-Crontab aufrufen:<br>
-```sudo nano /etc/crontab```
-
-Zeile einfügen<br>
-```*/5 * * * * pi /opt/fhem/SaftBMSGoodwe2_Monitor.pl```
-
-Speichern mit Str-O
-Verlassen mit Str-X
-
-Die Funktion sowie die PID des Überwachungsskript lässt sich am File SaftBMSGoodwe2.log erkennen.
-
-2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py läuft nicht. Starte neu... <br> 
-2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py wurde gestartet mit PID 27395: <br> 
-2024-08-18 14:55:02 - Das Skript SaftBMSGoodwe2.py läuft bereits mit der PID 27395. <br> 
-
 # Hauptfunktionen - SaftBMSGoodwe2.py
 
    **CAN-Bus Konfiguration:**<br>
@@ -48,6 +27,30 @@ Die Funktion sowie die PID des Überwachungsskript lässt sich am File SaftBMSGo
    
    **Batterierelais-Steuerung:**<br>
    Das Skript steuert das Schließen der Batterierelais basierend auf dem Status der Batteriekontaktoren.
+
+
+
+# Monitor Script for SaftBMSGoodwe2.py - SaftBMSGoodwe2_Monitor.pl
+
+Das Perl Skrit SaftBMSGoodwe2_Monitor.pl übwerwacht ob das Python Skript läuft und startet ggf. neu. Dies soll die Stabilität erhöhen falls es zu Abbrüchen kommt. 
+
+Das Script wird automtisch bei Systemstart ausgeführt hierzu folgende Anpassungen vornehmen.
+
+Crontab aufrufen:<br>
+```sudo nano /etc/crontab```
+
+Zeile einfügen<br>
+```*/5 * * * * pi /opt/fhem/SaftBMSGoodwe2_Monitor.pl```
+
+Speichern mit Str-O
+Verlassen mit Str-X
+
+Die Funktion sowie die PID des Überwachungsskript lässt sich am File SaftBMSGoodwe2.log erkennen.
+
+2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py läuft nicht. Starte neu... <br> 
+2024-08-18 14:50:01 - Das Skript SaftBMSGoodwe2.py wurde gestartet mit PID 27395: <br> 
+2024-08-18 14:55:02 - Das Skript SaftBMSGoodwe2.py läuft bereits mit der PID 27395. <br> 
+
 
 
 # Kurzanleitung FHEM_BMM 
