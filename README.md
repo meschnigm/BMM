@@ -1,11 +1,3 @@
-# erweitertes Python Script von Michael - SaftBMSGoodwe2.py
-
-Mit der Erweiterung erzeugt das Script ein Logfile im Ordner **/opt/fhem/Saft_BMM-yyyy-mm.log** mit folgender Struktur
-
-```2024-08-01_21:55:56 SAFT_BMM sOC: 70 internalBatteryVoltage: 526.075 internalBatteryCurrent: -1.0 batterySystemMode: 3 rawBatteryContactorsStatus: 1 IMD: 50.0 VMD: 420.0 PMD: 25680 batteryRequests: 0 IMRContinuous: 23.5 IMR: 29.0 VMR: 560.0 PMR: 15350 globalBatteryStatus: 0 sOCThreshold: 0 ```
-
-Auf Änderungen in diesem File reagiert FHEM und aktualisiert seine internen Readings und Plots.
-
 # Hauptfunktionen - SaftBMSGoodwe2.py
 
    **CAN-Bus Konfiguration:**<br>
@@ -15,6 +7,10 @@ Auf Änderungen in diesem File reagiert FHEM und aktualisiert seine internen Rea
    **Logging:**
    Es konfiguriert ein Logging-System, das Daten in eine Datei schreibt, die dynamisch basierend auf dem aktuellen Datum generiert wird.
    Die Log-Daten enthalten Informationen wie den SOC (State of Charge), interne Batteriespannung, -strom, Betriebsmodus und Kontaktschalterstatus.
+
+   ```2024-08-01_21:55:56 SAFT_BMM sOC: 70 internalBatteryVoltage: 526.075 internalBatteryCurrent: -1.0 batterySystemMode: 3 rawBatteryContactorsStatus: 1 IMD: 50.0 VMD: 420.0 PMD: 25680 batteryRequests: 0 IMRContinuous: 23.5 IMR: 29.0 VMR: 560.0 PMR: 15350 globalBatteryStatus: 0 sOCThreshold: 0 ```
+   
+   Auf Änderungen in diesem File reagiert FHEM und aktualisiert seine internen Readings und Plots.
 
    **Datenempfang und -verarbeitung:**<br>
    Das Skript empfängt Nachrichten von der Saft-BMS über can0.
