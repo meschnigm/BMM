@@ -67,7 +67,7 @@ Auf der Weboberfläche können die extahierten Daten als Plot angezeigt werden..
 
 Zusätzlich können die Daten an einen MQTT-Server gesendet werden und damit in vorhandene Hausautomatisierungsysteme eingebunden werden.
 
-## Aufbau:
+## Aufbau: (Achtung auf dem Bild ist die CAN-Verbindung falsch dargestellt. Der Goddwe muss an CAN1 - BMM an CAN0
 
 ![image_GIMP.png](Bilder/image_GIMP.png) 
 
